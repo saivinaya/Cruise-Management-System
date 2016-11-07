@@ -1,0 +1,19 @@
+356734899,Xander Pacheco,AB,07/11/2000,Benin,1113.0,229.0
+184297612,Aurelia Hurst,Hat,17/07/1959,Bahamas,771.0,76.0
+173480371,Charde Kidd,Bremen,09/04/1944,France,659.0,107.0
+853053772,Peter Chang,Bremen,01/03/1931,France,994.0,195.0
+267829501,Joelle Velazquez,LX,02/02/1949,Croatia,701.0,140.0
+538366076,Bryar Hernandez,HB,06/10/2002,French Territories,1192.0,69.0
+456330680,Bell Dillard,Mersin,03/10/1940,Uruguay,909.0,154.0
+256822588,Paul Le,Oregon,17/09/1987,Reunion,976.0,227.0
+821939861,Iliana Carr,Caithness,09/06/1977,Martinique,676.0,318.0
+469097534,Indira Ellis,SN,23/08/1978,Uruguay,960.0,78.0
+965176378,Dylan Morgan,Bedfordshire,12/04/1995,Rwanda,1113.0,274.0
+332585727,Teagan Dale,M,20/05/1954,Turks and Caicos Islands,1168.0,147.0
+478364215,Fulton Shelton,Aberdeenshire,16/05/1988,Madagascar,982.0,122.0
+957022542,Lunea Cross,UP,28/01/1935,Jordan,983.0,208.0
+295830104,Flavia Marks,Argyllshire,09/03/1985,Bolivia,604.0,81.0
+294563386,Prescott Fletcher,Munster,15/12/2011,Mozambique,1198.0,261.0
+527646154,Teagan Dale,Mersin,19/10/1974,Mali,1010.0,232.0
+935258493,Celeste Franks,Henegouwen,23/09/1952,Dominican Republic,932.0,252.0
+409238351,Mari Roberson,Arkansas,16/08/1986,Martinique,863.0,276.0
